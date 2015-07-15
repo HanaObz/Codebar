@@ -65,7 +65,7 @@ li {
 }
 
 #genres li.active {
-  background-color: purple;
+  background-color: cyan;
 }
 
 #programmes li {
